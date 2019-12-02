@@ -1,1 +1,1 @@
-require("./lib/rainbow")
+module.exports = require("./lib/rainbow")
