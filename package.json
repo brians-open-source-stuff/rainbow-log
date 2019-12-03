@@ -1,0 +1,22 @@
+{
+  "name": "@emilius/rainbow-log",
+  "version": "0.0.1",
+  "description": "A completely useless, rainbow-filled, sparkly substitute for console.log()",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brians-open-source-stuff/rainbow-log.git"
+  },
+  "author": "Brian Emilius <brian@brianemilius.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brians-open-source-stuff/rainbow-log/issues"
+  },
+  "homepage": "https://github.com/brians-open-source-stuff/rainbow-log#readme"
+}
