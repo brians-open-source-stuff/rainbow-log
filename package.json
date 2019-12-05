@@ -1,6 +1,6 @@
 {
   "name": "@emilius/rainbow-log",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "description": "A completely useless, rainbow-filled, sparkly substitute for console.log()",
   "main": "index.js",
   "directories": {
