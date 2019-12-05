@@ -7,7 +7,7 @@
     "lib": "lib"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/brians-open-source-stuff/rainbow-log/issues"
   },
-  "homepage": "https://github.com/brians-open-source-stuff/rainbow-log#readme"
+  "homepage": "https://github.com/brians-open-source-stuff/rainbow-log#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
 }
