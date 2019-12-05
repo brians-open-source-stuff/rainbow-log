@@ -7,6 +7,11 @@
 
 A completely useless, rainbow-filled, sparkly substitute for console.log().
 
+This package is a demonstration of the NPM package structure used by students at Roskilde Technical College. It is meant to give some insights into how a package is build and published.
+
+## Prerequisites
+Node.js version 6+
+
 ## How to install
 ```
 npm i @emilius/rainbow-log
@@ -17,4 +22,9 @@ npm i @emilius/rainbow-log
 let rainbow = require("@emilius/rainbow-log")
 
 rainbow("Hello, World!")
+```
+
+## Testing
+```
+npm test
 ```
